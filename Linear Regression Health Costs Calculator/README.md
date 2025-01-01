@@ -12,7 +12,7 @@ Key Features
 -   Provides accurate cost predictions for new patient data
 -   Includes data visualization and model performance metrics
 
-Technical Details
+Technical Implementation
 -----------------
 
 -   Built using [specific ML framework/library]
