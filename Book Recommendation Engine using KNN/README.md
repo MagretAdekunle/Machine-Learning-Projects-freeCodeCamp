@@ -15,7 +15,7 @@ The [Book-Crossings dataset](http://www2.informatik.uni-freiburg.de/~cziegler/B
 -   90,000 users
 -   Format: User-Item-Rating interactions
 
-Technical Goals
+Technical Specifications
 ---------------
 
 -   Handle sparse rating matrices
