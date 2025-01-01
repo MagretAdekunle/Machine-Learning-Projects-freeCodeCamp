@@ -1,3 +1,9 @@
+Requirements
+------------
+
+-   
+
+
 Key Features
 ------------
 
@@ -14,10 +20,17 @@ Technical Details
 -   Employs cross-validation to ensure prediction reliability
 -   Includes comprehensive data preprocessing pipeline
 
-Use Cases
----------
+Applications
+-------------
 
 -   Insurance premium estimation
 -   Healthcare budget planning
 -   Risk assessment for healthcare providers
 -   Individual cost forecasting
+
+
+Evaluation/Performance Metrics
+------------------
+
+My solution will be evaluated on:
+model.evaluate must return a Mean Absolute Error of under 3500. This means it predicts health care costs correctly within $3500.
