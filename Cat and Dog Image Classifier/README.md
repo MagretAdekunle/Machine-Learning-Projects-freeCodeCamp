@@ -1,4 +1,4 @@
-Challenge Requirements
+Requirements
 ----------------------
 
 -   Implement a convolutional neural network (CNN) using TensorFlow 2.0 and Keras
@@ -59,4 +59,4 @@ Applications
 Evaluation
 ----------
 
-Your solution will be tested on a held-out test set of cat and dog images to verify the accuracy requirements are met.
+My solution will be tested on a held-out test set of cat and dog images to verify the accuracy requirements are met.
