@@ -20,6 +20,43 @@ Success Criteria
 -   Bonus achievement: ≥70% classification accuracy
 -   Model must maintain consistent performance across multiple evaluation runs
 
+Key Features
+------------
+
+-   Implements CNN architecture for pet image classification
+-   Processes and augments image data for robust training
+-   Achieves high classification accuracy
+-   Includes real-time prediction capabilities
+
+Technical Architecture
+----------------------
+
+-   Convolutional layers for feature extraction
+-   Max pooling layers for spatial reduction
+-   Dropout for overfitting prevention
+-   Dense layers for final classification
+-   Data augmentation pipeline
+
+
+Project Components
+------------------
+
+-   Image preprocessing and normalization
+-   Model training and validation
+-   Performance visualization
+-   Easy-to-use inference pipeline
+-   Model evaluation metrics
+
+
+Applications
+------------
+
+-   Pet image sorting
+-   Veterinary image processing
+-   Pet-related content moderation
+-   Educational demonstrations
+
+
 Evaluation
 ----------
 
