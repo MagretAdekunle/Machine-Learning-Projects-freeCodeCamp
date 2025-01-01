@@ -5,7 +5,6 @@ The model is trained on a labeled dataset containing:
 
 -   Legitimate messages (ham): Personal communications between individuals
 -   Spam messages: Unsolicited commercial content, advertisements, and promotional materials
--
 
 Key Features
 ------------
