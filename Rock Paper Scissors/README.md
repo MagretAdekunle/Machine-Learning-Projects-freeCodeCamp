@@ -3,7 +3,7 @@ Requirements
 ------------
 
 -   Implement an AI player that competes in Rock, Paper, Scissors matches
--   Your program must face four distinct opponent bots in separate matches
+-   Program must face four distinct opponent bots in separate matches
 -   Achieve a minimum 60% win rate against each opponent
 -   Each match should consist of a statistically significant number of games
 
