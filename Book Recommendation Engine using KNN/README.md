@@ -1,3 +1,10 @@
+Requirements
+----------------------
+
+-   Implement a K-Nearest Neighbors recommendation algorithm
+-   Process and handle the large-scale dataset efficiently
+-   Create a function that takes a book title or user ID and returns personalized book recommendations
+
 Dataset
 -------
 
@@ -7,13 +14,6 @@ The [Book-Crossings dataset](http://www2.informatik.uni-freiburg.de/~cziegler/B
 -   270,000 unique books
 -   90,000 users
 -   Format: User-Item-Rating interactions
-
-Challenge Requirements
-----------------------
-
--   Implement a K-Nearest Neighbors recommendation algorithm
--   Process and handle the large-scale dataset efficiently
--   Create a function that takes a book title or user ID and returns personalized book recommendations
 
 Technical Goals
 ---------------
