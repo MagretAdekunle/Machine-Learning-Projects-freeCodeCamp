@@ -4,12 +4,6 @@ Requirements
 -   Implement and Train the model to distinguish between Legitimate messages and Spam messages
 -   Achieve a minimum 80% accracy rate against each SMS text message
 
-
-Implement a convolutional neural network (CNN) using TensorFlow 2.0 and Keras
-
-Achieve a minimum classification accuracy of 63%
-
-
 Dataset
 -------
 
