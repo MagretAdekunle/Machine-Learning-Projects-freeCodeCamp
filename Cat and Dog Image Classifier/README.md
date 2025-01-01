@@ -27,7 +27,7 @@ Key Features
 -   Achieves high classification accuracy
 -   Includes real-time prediction capabilities
 
-Technical Architecture
+Technical Implementation
 ----------------------
 
 -   Convolutional layers for feature extraction
