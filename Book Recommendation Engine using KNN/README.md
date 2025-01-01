@@ -23,12 +23,39 @@ Technical Goals
 -   Balance recommendation accuracy with computational efficiency
 -   Provide justification for parameter choices (e.g., value of K, similarity metric)
 
-Evaluation Metrics
+Technical Implementation
+------------------------
+
+-   User-based collaborative filtering
+-   Rating normalization and preprocessing
+-   Efficient nearest neighbor computation
+-   Scalable recommendation generation
+-   Performance optimization for large datasets
+
+Core Features
+-------------
+
+-   Implements KNN algorithm for collaborative filtering
+-   Processes large-scale reading behavior data
+-   Generates personalized book suggestions
+-   Handles sparse rating matrices efficiently
+-   Includes similarity-based recommendation generation
+
+Applications
+------------
+
+-   Personal reading suggestions
+-   Library recommendation systems
+-   Online bookstore platforms
+-   Reading group suggestions
+
+Evaluation/Performance Metrics
 ------------------
 
-Your solution will be evaluated on:
+My solution will be evaluated on:
 
 -   Recommendation relevance
+-   Rating prediction accuracy
 -   Algorithm performance and scalability
 -   Code quality and documentation
 -   Handling of edge cases (new users, cold start)
