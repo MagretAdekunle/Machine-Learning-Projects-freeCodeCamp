@@ -1,7 +1,9 @@
 Requirements
 ------------
 
--   
+-   Implement a convolutional neural network (CNN) using TensorFlow 2.0 and Keras
+-   Train the model to distinguish between images of cats and dogs
+-   Achieve a minimum classification accuracy of 63%
 
 
 Key Features
