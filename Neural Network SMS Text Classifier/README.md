@@ -1,3 +1,9 @@
+Requirements
+------------
+
+-   Implement an model that identifies Legitimate messages from Spam messages
+-   Achieve a minimum 80% accracy rate against each SMS text message
+
 Dataset
 -------
 
