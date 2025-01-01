@@ -4,7 +4,6 @@ Challenge Requirements
 -   Implement a convolutional neural network (CNN) using TensorFlow 2.0 and Keras
 -   Train the model to distinguish between images of cats and dogs
 -   Achieve a minimum classification accuracy of 63%
--   Bonus achievement: Reach 70% or higher accuracy
 
 Technical Specifications
 ------------------------
