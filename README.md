@@ -7,7 +7,7 @@ An intelligent agent that consistently outperforms random strategies in Rock Pap
 
 
 
-2\. [Cat and Dog Image Classifier]()
+2\. [Cat and Dog Image Classifier](https://github.com/MagretAdekunle/Machine-Learning-Projects-freeCodeCamp/tree/main/Cat%20and%20Dog%20Image%20Classifier)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 A deep learning model built with TensorFlow 2.0 and Keras that accurately classifies images of cats and dogs using convolutional neural networks (CNN). This project demonstrates modern computer vision techniques for binary image classification.
